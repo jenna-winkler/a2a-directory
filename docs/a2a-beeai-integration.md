@@ -6,7 +6,6 @@ The A2A protocol enables direct communication between autonomous agents, allowin
 
 ## Prerequisites 
 
-Before getting started, ensure you have:
 - Python 3.8+
 - BeeAI Framework installed with A2A support: `pip install "beeai-framework[a2a]"`
 - Ollama or an LLM API key (e.g., Gemini, OpenAI, etc.)
